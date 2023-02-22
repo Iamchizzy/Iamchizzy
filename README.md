@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iamchizzy
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning AWS/GCP Devops
-- 💞️ I’m looking to collaborate on projects related to the cloud and intern for companies that adopt cloud
+- 💞️ Hit me up for collaborations on projects related to the cloud and intern for companies that adopt cloud
 - 📫 How to reach me chizobaumunna@gmail.com
 
 <!---
